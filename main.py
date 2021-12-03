@@ -1,0 +1,25 @@
+
+
+adjective1 = input("ADJECTIVE: ")
+noun1 = input("NOUN: ")
+feeling1 = input("FEELING: ")
+number1 = input("NUMBER: ")
+noun2 = input("NOUN: ")
+noun3 = input("NOUN: ")
+verb1 = input("PAST TENSE VERB: ")
+number2 = input("NUMBER: ")
+adjective2 = input("ADJECTIVE: ")
+noun4 = input("NOUN: ")
+adjective3 = input("ADJECTIVE: ")
+
+print("A UCVTS school day")
+print("------------------")
+print("Today, a new school called " + adjective1 + " " + noun1 + " opened up at UCVTS.")
+print("I was very " + feeling1 + " when I saw the school.")
+print("I think there is " + number1 + " people who attended the school.")
+print("After " + noun2 + " class, I had " + noun3 + " class at " + adjective1 + noun1 + " school.")
+print("I " + verb1 + " to " + noun3 + " class as I had only " + number2 + " minutes left.")
+print("When the teacher saw me, they asked, \"Why do you look so " + adjective2 + "?\"")
+print("I responded, \"There was a " + noun4 + " in my way.\"")
+print("The rest of the day was very " + adjective3 + ".")
+
